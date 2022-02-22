@@ -1,0 +1,35 @@
+//--TAILWIND CSS
+
+
+c'est un framework de style (css) qui nous facilite la création de style à travers l'application des styles directement aux élèments.
+
+Explication: le principe fondamental d'utilisation de css est de créer un nom de classe attribué aux élèments html puis styliser cette classe.
+Meme si ce qu'on a fait jusque là je dirais plutot que c'est longue par rapport à ce bijou que nous venons de découvrir.
+Plus de facilité est toujours une bonne chose surtout si elle nous fait gagner du temps. et il a de bon nombreux avantages:
+1-   Concevoir avec des contraintes . En utilisant les styles en ligne, chaque valeur est un nombre magique.
+Avec les utilitaires, vous choisissez des styles à partir d'un système de conception prédéfini , ce qui facilite grandement
+la création d'interfaces utilisateur visuellement cohérentes.
+
+2- Conception réactive . Vous ne pouvez pas utiliser les requêtes multimédias dans les styles en ligne,
+mais vous pouvez utiliser les utilitaires réactifs de Tailwind pour créer facilement des interfaces entièrement réactives.
+
+3-	Survol, mise au point et autres états . Les styles en ligne ne peuvent pas cibler des états comme le survol ou le focus,
+mais les variantes d'état de Tailwind facilitent le style de ces états avec des classes utilitaires.
+
+4- Plus de souci avec la maintenabilité :
+car la maintenance d'un projet CSS d'abord utilitaire s'avère beaucoup plus facile que la maintenance d'une grande base de code CSS,
+simplement parce que HTML est tellement plus facile à maintenir que CSS.
+De grandes entreprises comme GitHub, Netflix, Heroku, Kickstarter, Twitch, Segment et bien d'autres utilisent cette approche avec beaucoup de succès.
+
+5- Plus de feuille de style kilométrique car avec tailwind css, que les styles utilisées seront maintenu dans notre fichier et le reste supprimer 
+automatiquement.
+
+6-  Des Composants prêts à l'emploi 
+
+Avec Tailwind css nous pouvant réaliser le design que nous souhaitons pour notre site et ce avec la plus grande des simplicité.
+
+Trop cool n'est-ce pas? Mais didonc, s'il y a une chose dont nous sommes tous d'accord c'est qu'on meut d'impatience de savoir comment ca marche?
+
+BAH nous le savons désormais enh tailwind c'est vraiment une merveille et plutot facile à utiliser car 
+Tailwind comprend un ensemble de valeurs par défaut conçues par des experts, mais littéralement on peut tout personnalisé -
+de la palette de couleurs à l'échelle d'espacement en passant par les ombres de la boîte et le curseur de la souris etc.
