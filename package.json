@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.0.23"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petit-boudha/TailwindCSS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petit-boudha/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/petit-boudha/TailwindCSS#readme"
 }
